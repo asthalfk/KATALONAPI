@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET_Single_User_Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49fb0658-dbd0-4c6d-affa-dbf2c8d49528</testCaseGuid>
+</TestCaseEntity>
